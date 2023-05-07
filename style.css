@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+body{
+    padding:2rem;
+    background-image: url("./geometric-background-with-copy-space.jpg");
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.card{
+    height: 30rem !important;
+    margin-bottom: 1rem !important;
+}
